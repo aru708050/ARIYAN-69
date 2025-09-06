@@ -23,7 +23,7 @@
     "whiteListIds": ["61560049662458","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " Ariyan ",
+  "nickNameBot": " Ariyan bot ",
   "prefix": "-",
   "database": {
     "type": "mongodb",
